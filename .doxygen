@@ -1,0 +1,73 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+
+
+
+
+
+
+
+TITLE
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUTHOR
+Version 1.0.0
+CREATEDATE
+Table of Contents
+
+Table of contents
+
+
+
+File Index
+File List
+Here is a list of all documented files with brief descriptions:
+laboratorio.c (Funcion principal para definir variables y operaciones ) 	pagenum
+main.c  	pagenum
+
+
+File Documentation
+laboratorio.c File Reference
+AAAAAAAAAAAAAAAAAAAA
+funcion principal para definir variables y operaciones 
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <time.h>
+Functions
+0)	int generar ()
+1)	int codificar ()
+2)	int main ()
+Variables
+0)	int iAAAAAAAAABAAAAAAAAAB
+1)	int nAAAAAAAAACAAAAAAAAAC
+2)	int n1AAAAAAAAADAAAAAAAAAD
+3)	int aleatorioAAAAAAAAAEAAAAAAAAAE
+4)	int P =1AAAAAAAAAFAAAAAAAAAF
+5)	int U =10AAAAAAAAAGAAAAAAAAAG
+6)	char txt [50]AAAAAAAAAHAAAAAAAAAH
+
+Detailed Description
+funcion principal para definir variables y operaciones 
+
+Author:
+Jeferson Grueso, Daniel Escamilla, Santiago Moreno  03 Septiembre 2014 
+Parameters:
+argc,chat* 	argv[] 
+txt,Vector 	A muestra y una serie de caracteres predefinidos 
+aleatorio,Variable 	para generar numeros de codificacion 
+txt,vector 	que guarda la frase introducida 
+
